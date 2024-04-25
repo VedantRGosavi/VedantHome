@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VedantRGosavi
 - 👀 I’m interested in AI,ML and innovating for a future where the right people always have an edge.
-- 🌱 I’m currently learning Projects on AI/ML specifically on Kaggle and with the guidance of Andrej Karapathy's YT Channel.
+- 🌱 I’m currently learning Projects on AI/ML specifically on Kaggle.
 - 💞️ I’m looking to collaborate on anything ! Hit me up. Love to innovate and always curious to learn something new.
 - 📫 How to reach me @VedantGosavi20 on X.com (Formerly known as Twitter)
 - 😄 Pronouns: He/Him  
